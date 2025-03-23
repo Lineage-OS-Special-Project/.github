@@ -61,6 +61,8 @@ To get started with contributing, check out the following steps:
 
 We welcome all contributors to join the development process and help us make this project a success. 
 
+Connect with us on Telegram: [Join Here](https://t.me/hTwiXXD1NSk3NmI0)
+
 ---
 
 ## License
